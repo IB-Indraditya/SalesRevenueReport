@@ -1,7 +1,5 @@
 # SalesRevenueReport
 
- For a corporate Excel workbook, the **README** should look like something you'd see in an MIS dashboard used at **Accenture, Deloitte, EY, KPMG, TCS, or Amazon**. Below is a polished version you can paste directly into the first sheet of your workbook.
-
 ---
 
 # 📊 SALES REVENUE TRACKING SYSTEM
